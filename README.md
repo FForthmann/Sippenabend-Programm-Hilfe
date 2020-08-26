@@ -1,1 +1,0 @@
-# Sippenabend-Programm-Hilfe
