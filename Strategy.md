@@ -1,6 +1,7 @@
 ---
 disablearabicstart: true
 lang: de-DE
+include-after: ["Tierspuren-Memory.pdf", "Pflanzen-Memory.pdf"]
 forceimages: true
 force-image-position: true
 link-citations: true
@@ -8,12 +9,8 @@ lof: true
 lot: false
 ...
 
-<!--
-include-after: ["PfadfinderprobenListe.pdf", "PflanzenMemory.pdf"]
--->
-
 \pagenumbering{roman}
-\setcounter{page}{3}
+\setcounter{page}{4}
 
 \section*{Vorwort}
 \addcontentsline{toc}{section}{Vorwort}
