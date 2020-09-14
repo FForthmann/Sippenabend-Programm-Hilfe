@@ -267,7 +267,7 @@ Jedes Alter
 \underline{Vorbereitung/Nachbereitung}
 Als Vorbereitung muss nur das Material besorgt werden und Zeitungspapier auf dem Tisch ausgebreitet werden. Möglicherweise muss danach gewischt werden. Deshalb sollte mehr Zeit für die Nachbereitung eingeplant werden. Zudem sollte die Sipplinge sich ältere Klamotten anziehen.
 
-
+![Beispielhaftes Zahnbürsten-Spritzbild](Zahnbuerst-Bild.png){width=35%}
 
 \underline{Durchführung}
 Zunächst müssen sich die Sipplinge überlegen, wie sie ihre Spritzbilder gestalten wollen. Dazu können sie sich Schablonen besteln oder sich Blätter von draußen suchen. Danach wird einfach etwas Farbe auf den Zahnbürsten aufgetragen und mit den Fingern auf das Blatt gespritzt.
