@@ -1,6 +1,7 @@
 ---
 disablearabicstart: true
 lang: de-DE
+include-before: "Deckblatt.pdf"
 include-after: ["Tierspuren-Memory.pdf", "Pflanzen-Memory.pdf"]
 forceimages: true
 force-image-position: true
